@@ -9,15 +9,11 @@
 ## 🚀 Featured Projects
 - 🧩 [FinAgent-Orchestration](https://github.com/jifeng-li/FinAgent-Orchestration)  
   End-to-end multi-agent DAG system for autonomous financial trading.
-- 🖐️ [NeuralFeels](https://github.com/jifeng-li/NeuralFeels)  
-  Tactile Transformer with Mamba-based encoders for SLAM and robotic perception.
-- 📈 [FinMem](https://github.com/jifeng-li/FinMem)  
-  Neo4j-based memory module for agentic trading and orchestration.
 
 ---
 
 ## 📚 Publications
-- *From Algorithmic to Agentic Trading: A FinAgent Orchestration Framework* (NeurIPS Submission, 2025)  
+- *From Algorithmic to Agentic Trading: A FinAgent Orchestration Framework* (NeurIPS, 2025)  
 - *Robust Mamba for Multimodal SLAM Reconstruction* (Under Review, 2024)
 
 ---
